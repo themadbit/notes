@@ -1,0 +1,21 @@
+Author: Mark Tanui
+Date: May 7, 2025
+
+Check your linux shell knowledge
+
+- You can access a linux shell on the platform/OS your computer is running
+- You can install/uninstall a package/app using the shell
+- You can navigate files and directories i.e change, create, move, copy, remove, rename
+- You can view and write to a file i.e cat, echo, redirection (>, >>), using text editiors (vim, nano)
+- You can find text, files or binaries/packages more easily i.e find, grep
+- You can find help within the shell i.e man, help, history
+- You can copy and paste in the shell
+- You can do more advanced text manipulation i.e uniq, diff, tail, head, pipe, tee, tr etc
+- You can do user management i.e useradd, userdel, passwd
+- Permissions: file permissions, modifying permissions, SUID
+- Processes: ps, process details, kill, force-kill, job control (bg,fg)
+- Using archivers: gzip, tar etc
+- Network sharing: file sharing, simple HTTP server (python), SSH
+- Network config: interfaces, dhcp, network manager, i.e ifconfig
+- Troubleshooting. This, the most. The more you are in errors, the more you learn. Don't be afraid to break things!
+

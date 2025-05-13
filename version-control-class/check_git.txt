@@ -1,0 +1,21 @@
+Author: Mark Tanui
+Date: May 7, 2025
+
+Check your Git Knowledge
+
+- You have git available in your computer
+- You understand the need for version control
+- You can initialiaze a git directory i.e git init -- and you understand what that does
+- You can edit the git config file extra: you can use 'git config'
+- You can add files
+- You can commit files
+- You can check the status of a git directory
+- You can push to a remote repository i.e GitHub, GitLab, BitBucket, Custom git repo etc
+- You can undo a commit i.e soft vs hard reset
+- You understand how to interpret a git log i.e order of commits, HEAD, initial etc
+- Branching: creating, checkout, delete, list i.e https://learngitbranching.js.org/
+- You want to checkout but you have uncommited changes? i.e git stash
+- You can merge branches note: difference between merge and rebase
+- Rebasing: interactive-rebase, cherry-pick, squash, rename etc
+- You want to force push? why, when and why not!
+- Working with a remote repo: i.e pull vs fetch, clone, fork, pull request
