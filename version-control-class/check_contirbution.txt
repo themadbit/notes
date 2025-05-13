@@ -16,11 +16,11 @@ Check your 'making first contribution' knowledge:
 - Add the file and commit i.e use 'Added contributor: <your-name>' as commit message
 - Before pushing, make sure there has been no new change in the main branch:
 	- Checkout to the main branch
-	- Git pull to check if there are any changes i.e 'git pull <project-url>' & not if there are new changes
+	- Git pull to check if there are any changes i.e 'git pull <project-url>' & note if there are new changes
 	- Checkout back to the feature branch
 	- If there were changes, rebase your branch to get them i.e 'git rebase main'
 - Now, you can push the changes. i.e 'git push -u origin HEAD' With the steps above, hopefully, you do not have any conflict.
-- Your changes are now in the forked repository. But, they new to be added to the main project we are contributing to.
+- Your changes are now in the forked repository. But, they ought to be added to the main project we are contributing to.
 - [So], in your fork, hit the contribute button to make a pull request (PR)
 - Once your PR is merged, everyone can see you changes. If they pull, the changes should be seen locally.
 - Yay, you are a contributor!
